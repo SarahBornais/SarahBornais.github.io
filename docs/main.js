@@ -30,7 +30,7 @@ class HomeComponent {
     }
 }
 HomeComponent.ɵfac = function HomeComponent_Factory(t) { return new (t || HomeComponent)(); };
-HomeComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: HomeComponent, selectors: [["app-home"]], decls: 16, vars: 0, consts: [[1, "center"], ["src", "../../../assets/images/Logo.svg", 1, "center-img"], [1, "row", "center-img"], ["href", "https://linkedin.com/in/sbornais"], [1, "fab", "fa-github", "fa-2x"], ["href", "https://github.com/SarahBornais"], [1, "fab", "fa-linkedin", "fa-2x"]], template: function HomeComponent_Template(rf, ctx) { if (rf & 1) {
+HomeComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: HomeComponent, selectors: [["app-home"]], decls: 16, vars: 0, consts: [[1, "center"], ["src", "../../../assets/images/Logo.svg", 1, "center-img"], [1, "row", "center-img"], ["href", "https://github.com/SarahBornais"], [1, "fab", "fa-github", "fa-2x"], ["href", "https://linkedin.com/in/sbornais"], [1, "fab", "fa-linkedin", "fa-2x"]], template: function HomeComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](2, "img", 1);

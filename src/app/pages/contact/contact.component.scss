@@ -1,0 +1,37 @@
+input, textarea {
+  background-color: #364354;
+  border: none;
+  color: white !important;
+}
+
+input:focus, textarea:focus {
+  background-color: #364354;
+  outline-color: #8AF8FF !important;
+  border-color: #8AF8FF !important;
+  box-shadow: inset 0px 0px 0px 1px #8AF8FF !important;
+}
+
+
+button {
+  background-color: #8AF8FF;
+  border: none;
+  border-radius: 5px;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-weight: bolder;
+  color: #364354;
+}
+
+label {
+  font-weight: bold;
+}
+
+form {
+  text-align: left !important;
+}
+
+b {
+  color: #8AF8FF;
+}
